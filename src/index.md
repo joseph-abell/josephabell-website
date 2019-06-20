@@ -1,6 +1,5 @@
 ---
 layout: home
-title:
 postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
