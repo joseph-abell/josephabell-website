@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Joseph Abell
+title:
 postsHeading: Posts
 archiveButtonText: See all posts
 socialImage: ''
